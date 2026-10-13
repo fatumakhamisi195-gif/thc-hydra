@@ -1,5 +1,24 @@
 
-				  H Y D R A
+	van Hauser / THC
+             <vh@thc.org> https://github.com/vanhauser-thc/thc-hydra
+       Many modules were written by David (dot) Maciejak @ gmail (dot) com
+                 BFG code by Jan Dlabal <dlabaljan@gmail.com>
+
+  		    Licensed under AGPLv3 (see LICENSE file)
+
+           Please do not use in military or secret service organizations,
+                          or for illegal purposes.
+      (This is the wish of the author and non-binding. Many people working
+       in these organizations do not care for laws and ethics anyway.
+            You are not one of the "good" ones if you ignore this.)
+
+           NOTE: No, this is not meant to be a markdown doc! old school!
+
+
+Hydra in the most current GitHub state can be directly downloaded via Docker:
+```
+docker pull vanhauser/hydra
+```			  H Y D R A
 
                       (c) 2001-2023 by van Hauser / THC
              <vh@thc.org> https://github.com/vanhauser-thc/thc-hydra
